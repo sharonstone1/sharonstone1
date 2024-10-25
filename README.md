@@ -22,6 +22,7 @@ The programming languages I am skilled in include Python, Java, JavaScript, and 
 
 I am self-taught in :
 
+```
 - Node.js
 - React.js
 - SQL
@@ -48,6 +49,8 @@ I am self-taught in :
 - Kubernetes
 - Maths for engineer field
 - And React Native.
+
+```
 
 I am always open to learn new languages and skills because I love the process of acquiring knowledge. I also enjoy sharing what I know with anyone eager to learn.
 
