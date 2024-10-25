@@ -28,19 +28,17 @@ On my GitHub account, you will find some public repositories where I share my kn
 
 ### 🖥 Skills
 
-| Machine Learning     | Artificial Intelligence     | JavaScript     | D3js         |
-| -------------------- | --------------------------- | -------------- | ------------ |
-| React.js             | PHP                         | Python         | Nodejs       |
-| ------------------   | -------------------------   | ------------   | -----------  |
-| Java                 | React Native                | Saas           | SQL          |
-| -------------------- | --------------------------- | -------------- | ------------ |
-| MySQL                | Git & Github                | Django         | Power BI     |
-| -------------------- | --------------------------- | -------------- | ------------ |
-| Graphic Design       | Linux Commande Line         | Excel Pivot    | HTML         |
-| -------------------- | --------------------------- | -------------- | ------------ |
-| CSS                  | Bootstrap                   | Microservice   | TypeScript   |
+| Machine Learning | Artificial Intelligence | JavaScript | D3js   |
+| ---------------- | ----------------------- | ---------- | ------ |
+| React.js         | PHP                     | Python     | Nodejs |
 
-|
+| Java | React Native | Saas | SQL |
+
+| MySQL | Git & Github | Django | Power BI |
+
+| Graphic Design | Linux Commande Line | Excel Pivot | HTML |
+
+| CSS | Bootstrap | Microservice | TypeScript |
 
 ### ⚙️ Tech Stack
 
