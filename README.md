@@ -32,13 +32,13 @@ On my GitHub account, you will find some public repositories where I share my kn
 | ---------------- | ----------------------- | ---------- | ------ |
 | React.js         | PHP                     | Python     | Nodejs |
 
-| Java | React Native | Saas | SQL |
-
+| Java  | React Native | Saas   | SQL      |
+| ----- | ------------ | ------ | -------- |
 | MySQL | Git & Github | Django | Power BI |
 
-| Graphic Design | Linux Commande Line | Excel Pivot | HTML |
-
-| CSS | Bootstrap | Microservice | TypeScript |
+| Graphic Design | Linux Commande Line | Excel Pivot  | HTML       |
+| -------------- | ------------------- | ------------ | ---------- |
+| CSS            | Bootstrap           | Microservice | TypeScript |
 
 ### ⚙️ Tech Stack
 
