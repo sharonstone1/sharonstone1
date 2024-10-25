@@ -10,7 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marthe.coubard.ekoule@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.linkedin.com/in/marthe-coubard-44390a54/)](https://www.linkedin.com/in/marthe-coubard-44390a54/)
-[![Github](https://github.com/sharonstone1)
+[![Github](https://img.shields.io/github/followers/sharonstone1?label=Follow&style=social)](https://github.com/sharonstone1)
 
 I am currently working as an Associate Lecturer at ARU Cambridge. I graduated from ARU with a Master's degree in Information, Communication, and Technology in 2021.
 
