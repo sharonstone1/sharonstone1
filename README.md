@@ -12,19 +12,28 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.linkedin.com/in/marthe-coubard-44390a54/)](https://www.linkedin.com/in/marthe-coubard-44390a54/)
 [![Github](https://img.shields.io/github/followers/sharonstone1?label=Follow&style=social)](https://github.com/sharonstone1)
 
-I am currently working as an Associate Lecturer at ARU Cambridge. I graduated from ARU with a Master's degree in Information, Communication, and Technology in 2021.
+I am currently working as an Associate Lecturer at ARU Cambridge. I graduated from ARU (Anglia Ruskin University Cambridge -UK) with a Master's degree in Information, Communication, and Technology in 2021.
 
-I am passionate about web development, engineering, and artificial intelligence. I am working on my research project in artificial intelligence.
+I am passionate about web development, engineering, and artificial intelligence. I enjoy coding and reading about programming languages. I am self-taught in many programming languages. But I am perfectly comforatble with Javascript language. I am working to improve my full stack skills in web development and late improve also my data analyst because I graduated in Data Anlyst in 2014 in France( Montpellier University).
 
-I am currently looking for financial support for my PhD research. I wish to work as a Lecturer after I get my PhD. I enjoy coding and reading about programming languages.
+I am currently working on my research project in artificial intelligence and looking for financial support for my PhD research. I wish to work as a Lecturer after I get my PhD. But I am also opening to work with any industry company. As lecture It is good to get an stepping stone that will help new generation on their future career.
 
-The programming languages I am skilled in include Python, Java, JavaScript, and PHP.
+As Junior developer, I earnt skills in HTML, SAAS, CSS, JAVASCRIPT AND REACT.js. After my three months experience with VoiceHost at Norwich, I earnt skills in Java, MySQL, Node.js, Advance Reacts features and sourcetree.
 
-I am self-taught in :
+In 2024 as an Associate Lecturer, I earnt skills in Python, Machine Learning, Artificial Intelligence, Pandas, Numpy, Matplotlib, Scikit Learn, TensorFlow, Pytorch etc.
+
+I am always open to learn new languages and skills because I love the process of acquiring knowledge. I also enjoy sharing what I know with anyone eager to learn.
+
+On my GitHub account, you will find some public repositories where I share my knowledge. Please feel free to correct or contribute to any of my projects where you see room for improvement.
+
+Here my self-taught technologies tools:
 
 ```
 - Node.js
 - React.js
+- React Native
+- Java
+- Python
 - SQL
 - MySQL
 - Django
@@ -48,40 +57,35 @@ I am self-taught in :
 - Docker
 - Kubernetes
 - Maths for engineer field
+- Next.js
+- D3.js
+- Data Analyst
+- PHP
+- MongoDB
 - And React Native.
 
 ```
 
-I am always open to learn new languages and skills because I love the process of acquiring knowledge. I also enjoy sharing what I know with anyone eager to learn.
-
-On my GitHub account, you will find some public repositories where I share my knowledge.
-
 ### 🖥 Skills
 
 ```
-* Machine Learning
-* Artificial Intelligence
 * JavaScript
-*  D3js
 * React.js
-*  PHP
-* Python
-* Nodejs
-* Java
-* React Native
+* PHP (Intermediate Level)
+* Python (Intermediate Level)
+* Java (Intermediate Level)
+* React Native (Intermediate Level)
 * Saas
 * SQL
 * MySQL
 * Git & Github
 * Django
 * Power BI
-* Graphic Design
 * Linux Commande Line
 * Excel Pivot
 * HTML
 * CSS
 * Bootstrap
-* Microservice
 * TypeScript
 
 ```
