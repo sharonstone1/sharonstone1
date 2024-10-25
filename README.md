@@ -30,7 +30,11 @@ On my GitHub account, you will find some public repositories where I share my kn
 
 ### 🖥 Skills
 
-* Machine Learning  * Artificial Intelligence  * JavaScript   * React.js   * PHP    *Python   * Java    * React Native     * SQL    *MySQL   *Git & Github
+* Machine Learning
+* Artificial Intelligence
+* JavaScript
+* React.js
+* PHP    *Python   * Java    * React Native     * SQL    *MySQL   *Git & Github
 * Django    *Power BI     *Excel Pivot     *HTML    *CSS     *SAAS       *BootStrap      *D3js
 ### ⚙️ Tech Stack
 
