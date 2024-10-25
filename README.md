@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[[Images/martheminiphoto.jpg]]
+![][[/Images/martheminiphoto.jpg]]
 
 # Marthe Coubard Ekoule
 
