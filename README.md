@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world!! 👋
 
 ![A picture of me](/Images/miniphotomarthe.jpg)
 
@@ -26,7 +26,21 @@ I am always open to learn new languages and skills because I love the process of
 
 On my GitHub account, you will find some public repositories where I share my knowledge. Please feel free to correct or contribute to any of my projects where you see room for improvement.
 
-Here my self-taught technologies tools:
+Here my self-taught technologies tools:I am currently working as an Associate Lecturer at ARU Cambridge. I graduated from Anglia Ruskin University in Cambridge, UK, with a Master's degree in Information, Communication, and Technology in 2021.
+
+I am passionate about web development, engineering, and artificial intelligence. I enjoy coding and reading about programming languages. While I am self-taught in many programming languages, I am particularly comfortable with JavaScript. I am working to enhance my full-stack web development skills and also aim to improve my data analysis capabilities, having graduated in Data Analysis from Montpellier University in France in 2014.
+
+Currently, I am engaged in a research project in artificial intelligence and seeking financial support for my PhD research. I aspire to work as a Lecturer after completing my PhD, but I am also open to opportunities in industry. As a lecturer, I believe it's essential to help the next generation in their future careers.
+
+As a Junior Developer, I gained skills in HTML, SASS, CSS, JavaScript, and React.js. After my three-month experience with VoiceHost in Norwich, I expanded my skills to include Java, MySQL, Node.js, advanced React features, and Sourcetree.
+
+In 2024, as an Associate Lecturer, I acquired skills in Python, Machine Learning, Artificial Intelligence, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, and PyTorch.
+
+I am always eager to learn new languages and skills because I love the process of acquiring knowledge. I also enjoy sharing what I learn with anyone eager to improve.
+
+On my GitHub account, you will find some public repositories where I share my knowledge. Please feel free to correct or contribute to any of my projects where you see room for improvement.
+
+Here are my self-taught technology tools:
 
 ```
 - Node.js
