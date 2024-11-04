@@ -12,33 +12,19 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.linkedin.com/in/marthe-coubard-44390a54/)](https://www.linkedin.com/in/marthe-coubard-44390a54/)
 [![Github](https://img.shields.io/github/followers/sharonstone1?label=Follow&style=social)](https://github.com/sharonstone1)
 
-I am currently working as an Associate Lecturer at ARU Cambridge. I graduated from ARU (Anglia Ruskin University Cambridge -UK) with a Master's degree in Information, Communication, and Technology in 2021.
+I am currently working as an Associate Lecturer at Anglia Ruskin University (ARU) in Cambridge, UK. I graduated from ARU with a Master's degree in Information, Communication, and Technology in 2021.
 
-I am passionate about web development, engineering, and artificial intelligence. I enjoy coding and reading about programming languages. I am self-taught in many programming languages. But I am perfectly comforatble with Javascript language. I am working to improve my full stack skills in web development and late improve also my data analyst because I graduated in Data Anlyst in 2014 in France( Montpellier University).
+I am passionate about web development, engineering, and artificial intelligence. I enjoy coding and reading about programming languages. While I am self-taught in many languages, I am particularly comfortable with JavaScript. I am actively working to enhance my full-stack web development skills and improve my data analysis capabilities, having graduated in Data Analysis from Montpellier University in France in 2014.
 
-I am currently working on my research project in artificial intelligence and looking for financial support for my PhD research. I wish to work as a Lecturer after I get my PhD. But I am also opening to work with any industry company. As lecture It is good to get an stepping stone that will help new generation on their future career.
+Currently, I am engaged in a research project in artificial intelligence and am seeking financial support for my PhD research. I aspire to work as a Lecturer after completing my PhD, but I am also open to opportunities in the industry. As a lecturer, I believe it is essential to help the next generation navigate their future careers.
 
-As Junior developer, I earnt skills in HTML, SAAS, CSS, JAVASCRIPT AND REACT.js. After my three months experience with VoiceHost at Norwich, I earnt skills in Java, MySQL, Node.js, Advance Reacts features and sourcetree.
+As a Junior Developer, I acquired skills in HTML, SASS, CSS, JavaScript, and React.js. Following my three-month experience with VoiceHost in Norwich, I expanded my skill set to include Java, MySQL, Node.js, advanced features of React, and Sourcetree.
 
-In 2024 as an Associate Lecturer, I earnt skills in Python, Machine Learning, Artificial Intelligence, Pandas, Numpy, Matplotlib, Scikit Learn, TensorFlow, Pytorch etc.
+In 2024, as an Associate Lecturer, I further developed my skills in Python, Machine Learning, Artificial Intelligence, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, and PyTorch.
 
-I am always open to learn new languages and skills because I love the process of acquiring knowledge. I also enjoy sharing what I know with anyone eager to learn.
+I am always eager to learn new languages and skills because I love the process of acquiring knowledge. I also enjoy sharing what I learn with anyone who is eager to improve.
 
-On my GitHub account, you will find some public repositories where I share my knowledge. Please feel free to correct or contribute to any of my projects where you see room for improvement.
-
-Here my self-taught technologies tools:I am currently working as an Associate Lecturer at ARU Cambridge. I graduated from Anglia Ruskin University in Cambridge, UK, with a Master's degree in Information, Communication, and Technology in 2021.
-
-I am passionate about web development, engineering, and artificial intelligence. I enjoy coding and reading about programming languages. While I am self-taught in many programming languages, I am particularly comfortable with JavaScript. I am working to enhance my full-stack web development skills and also aim to improve my data analysis capabilities, having graduated in Data Analysis from Montpellier University in France in 2014.
-
-Currently, I am engaged in a research project in artificial intelligence and seeking financial support for my PhD research. I aspire to work as a Lecturer after completing my PhD, but I am also open to opportunities in industry. As a lecturer, I believe it's essential to help the next generation in their future careers.
-
-As a Junior Developer, I gained skills in HTML, SASS, CSS, JavaScript, and React.js. After my three-month experience with VoiceHost in Norwich, I expanded my skills to include Java, MySQL, Node.js, advanced React features, and Sourcetree.
-
-In 2024, as an Associate Lecturer, I acquired skills in Python, Machine Learning, Artificial Intelligence, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, and PyTorch.
-
-I am always eager to learn new languages and skills because I love the process of acquiring knowledge. I also enjoy sharing what I learn with anyone eager to improve.
-
-On my GitHub account, you will find some public repositories where I share my knowledge. Please feel free to correct or contribute to any of my projects where you see room for improvement.
+On my GitHub account, you can find some public repositories where I share my knowledge. Please feel free to correct or contribute to any of my projects where you see room for improvement.
 
 Here are my self-taught technology tools:
 
