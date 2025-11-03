@@ -12,21 +12,21 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.linkedin.com/in/marthe-coubard-44390a54/)](https://www.linkedin.com/in/marthe-coubard-44390a54/)
 [![Github](https://img.shields.io/github/followers/sharonstone1?label=Follow&style=social)](https://github.com/sharonstone1)
 
-I am currently working as an Associate Lecturer at Anglia Ruskin University (ARU) in Cambridge, UK. I graduated from ARU with a Master's degree in Information, Communication, and Technology in 2021.
+I graduated from Anglia Ruskin University (ARU) with a Master's degree in Information, Communication, and Technology in 2021. From March to November 2024, I worked as an Associate Lecturer at ARU in Cambridge, UK.
 
-I am passionate about web development, engineering, and artificial intelligence. I enjoy coding and reading about programming languages. While I am self-taught in many languages, I am particularly comfortable with JavaScript. I am actively working to enhance my full-stack web development skills and improve my data analysis capabilities, having graduated in Data Analysis from Montpellier University in France in 2014.
+I have a strong passion for web development, engineering, and artificial intelligence. I enjoy coding and exploring different programming languages. While I am self-taught in many languages, I am particularly comfortable with JavaScript. I am currently focused on enhancing my full-stack web development skills and improving my data analysis capabilities. Additionally, I graduated in Data Analysis from Montpellier University in France in 2014.
 
-Currently, I am engaged in a research project in artificial intelligence and am seeking financial support for my PhD research. I aspire to work as a Lecturer after completing my PhD, but I am also open to opportunities in the industry. As a lecturer, I believe it is essential to help the next generation navigate their future careers.
+My aspiration is to work as a lecturer after completing my PhD, though I remain open to opportunities in the industry. I believe it is essential to guide the next generation in navigating their future careers. In 2024, I was involved in a research project in artificial intelligence for my PhD; however, due to a lack of financial support, I decided to discontinue my research and focus on seeking new opportunities in web development or engineering.
 
-As a Junior Developer, I acquired skills in HTML, SASS, CSS, JavaScript, and React.js. Following my three-month experience with VoiceHost in Norwich, I expanded my skill set to include Java, MySQL, Node.js, advanced features of React, and Sourcetree.
+As a Junior Developer, I gained experience in HTML, SASS, CSS, JavaScript, and React.js. During a three-month stint with VoiceHost in Norwich, I expanded my skill set to include Java, MySQL, Node.js, advanced features of React, and Sourcetree.
 
-In 2024, as an Associate Lecturer, I further developed my skills in Python, Machine Learning, Artificial Intelligence, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, and PyTorch.
+In 2024, while serving as an Associate Lecturer, I further developed my skills in Python, Machine Learning, Artificial Intelligence, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, and PyTorch.
 
-I am always eager to learn new languages and skills because I love the process of acquiring knowledge. I also enjoy sharing what I learn with anyone who is eager to improve.
+I am always eager to learn new languages and technologies because I enjoy the process of acquiring knowledge. Additionally, I love sharing what I learn with others who want to improve.
 
-On my GitHub account, you can find some public repositories where I share my knowledge. Please feel free to correct or contribute to any of my projects where you see room for improvement.
+On my GitHub account, you can find public repositories where I share my knowledge. Please feel free to correct or contribute to any of my projects where you see opportunities for improvement.
 
-Here are my self-taught technology tools:
+Here are the technology tools I have taught myself:
 
 ```
 - Node.js
